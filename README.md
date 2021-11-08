@@ -13,7 +13,7 @@
 <ul>
   <li>😊 Just Call Me Arief</li>
   <li>🔭 I’m currently studying on something cool 🚀!</li>
-  <li>🌱 I’m currently learning <b>Java, Android Kotlin, Flutter</b>.</li>
+  <li>🌱 I’m currently learning <b>Java, Android Native, Flutter</b>.</li>
   <li>⚡ Fun fact: I play game like osu! 🎵</li>
 </ul>
 
@@ -45,34 +45,6 @@
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-  />
-  <img
-    align="center"
-    alt=""
-    height="30"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  />
-  <img
-    align="center"
-    alt=""
-    height="30"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  />
-  <img
-    align="center"
-    alt=""
-    height="30"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  />
-  <img
-    align="center"
-    alt=""
-    height="30"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
   />
   <img
     align="center"
