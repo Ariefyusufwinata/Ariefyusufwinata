@@ -12,8 +12,8 @@
 
 <ul>
   <li>😊 Just Call Me Arief</li>
-  <li>🔭 I’m currently studying on something cool 🚀!</li>
-  <li>🌱 I’m currently learning <b>Java, Android Native, Flutter</b>.</li>
+  <li>🔭 I’m studying on something cool 🚀!</li>
+  <li>🌱 I’m learning <b>Java, Android Native, Flutter</b>.</li>
   <li>⚡ Fun fact: I play game like osu! 🎵</li>
 </ul>
 
