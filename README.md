@@ -25,18 +25,18 @@
 
 <div>
   <img
-    height="140em"
+    height="135em"
     src="https://github-readme-stats.vercel.app/api?username=Ariefyusufwinata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"
   />
   <img
-    height="140em"
+    height="135em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariefyusufwinata&layout=compact&langs_count=10&theme=tokyonight"
   />
 </div>
 
 <br />
 
-<-- <h2>𝐖𝐡𝐚𝐭 𝐀𝐦 𝐈 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐢 𝐔𝐬𝐞 𝐌𝐨𝐬𝐭𝐥𝐲 ?</h2>
+<!-- <h2>𝐖𝐡𝐚𝐭 𝐀𝐦 𝐈 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐢 𝐔𝐬𝐞 𝐌𝐨𝐬𝐭𝐥𝐲 ?</h2>
 
 <div style="display: inline_block">
   <img
