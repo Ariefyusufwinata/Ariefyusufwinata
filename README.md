@@ -36,7 +36,7 @@
 
 <br />
 
-<h2>𝐖𝐡𝐚𝐭 𝐀𝐦 𝐈 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐢 𝐔𝐬𝐞 𝐌𝐨𝐬𝐭𝐥𝐲 ?</h2>
+<-- <h2>𝐖𝐡𝐚𝐭 𝐀𝐦 𝐈 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐢 𝐔𝐬𝐞 𝐌𝐨𝐬𝐭𝐥𝐲 ?</h2>
 
 <div style="display: inline_block">
   <img
@@ -60,7 +60,7 @@
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
   />
-</div>
+</div> -->
 
 <br />
 
