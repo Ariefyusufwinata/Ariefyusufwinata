@@ -30,7 +30,7 @@
   />
   <img
     height="135rem"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariefyusufwinata&layout=compact&langs_count=10&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariefyusufwinata&layout=compact&langs_count=20&theme=tokyonight"
   />
 </div>
 
