@@ -26,11 +26,11 @@
 <div>
   <img
     height="135rem"
-    src="https://github-readme-stats.vercel.app/api?username=Ariefyusufwinata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"
+    src="https://github-readme-stats.vercel.app/api?username=Ariefyusufwinata&show_icons=true&theme=tokyonight&include_all_commits=true"
   />
   <img
     height="135rem"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariefyusufwinata&layout=compact&langs_count=10&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariefyusufwinata&layout=compact&langs_count=10"
   />
 </div>
 
