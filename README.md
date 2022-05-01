@@ -13,7 +13,8 @@
 <ul>
   <li>😊 Just Call Me Arief</li>
   <li>🔭 I’m studying on something cool 🚀!</li>
-  <li>🌱 I’m learning <b>Java, Android Native, Flutter</b>.</li>
+<!--   <li>🌱 I’m learning <b>Java, Kotlin, Dart</b>.</li> -->
+  <li>💻 I’m interested with <b>Mobile App Development</b>.</li>
   <li>⚡ Fun fact: I play game like osu! 🎵</li>
 </ul>
 
@@ -36,31 +37,38 @@
 
 <br />
 
-<!-- <h2>𝐖𝐡𝐚𝐭 𝐀𝐦 𝐈 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐢 𝐔𝐬𝐞 𝐌𝐨𝐬𝐭𝐥𝐲 ?</h2>
+<h2>𝐖𝐡𝐚𝐭 𝐀𝐦 𝐈 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐢 𝐔𝐬𝐞 𝐌𝐨𝐬𝐭𝐥𝐲 ?</h2>
 
 <div style="display: inline_block">
   <img
     align="center"
-    alt=""
+    alt="Java"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
   />
   <img
     align="center"
-    alt=""
+    alt="Kotlin"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
   />
   <img
     align="center"
-    alt=""
+    alt="Dart"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+  />
+  <img
+    align="center"
+    alt="Flutter Framework"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
   />
-</div> -->
+</div>
 
 <br />
 
