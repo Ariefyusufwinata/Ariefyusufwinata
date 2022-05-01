@@ -15,7 +15,7 @@
   <li>🔭 I’m studying on something cool 🚀!</li>
 <!--   <li>🌱 I’m learning <b>Java, Kotlin, Dart</b>.</li> -->
   <li>💻 I’m interested with <b>Mobile App Development</b>.</li>
-  <li>⚡ Fun fact: I play game like osu! 🎵</li>
+  <li>⚡ Fun fact: I play rythm game like osu! 🎵</li>
 </ul>
 
 <br />
