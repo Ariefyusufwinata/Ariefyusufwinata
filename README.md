@@ -26,11 +26,11 @@
 
 <div>
   <img
-    height="155rem"
+    height="165rem"
     src="https://github-readme-stats.vercel.app/api?username=Ariefyusufwinata&show_icons=true&layout=compact"
   />
   <img
-    height="155rem"
+    height="165rem"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariefyusufwinata&layout=compact"
   />
 </div>
