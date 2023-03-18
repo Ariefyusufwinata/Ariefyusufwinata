@@ -68,7 +68,10 @@
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
   />
+  
   <br />
+  <br />
+  
   <img
     align="center"
     alt="Android"
