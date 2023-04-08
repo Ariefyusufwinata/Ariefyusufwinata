@@ -8,7 +8,7 @@
 
 <h2>𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
 
-<img src="/assets/rem-profile.gif" align="right" height="220" />
+<img src="/assets/rem-profile.gif" align="right" height="220" /> 
 
 <ul>
   <li>😊 Just Call Me Arief</li>
