@@ -1,4 +1,4 @@
-<h1 align="center">𝓗𝓮𝓵𝓵𝓸 𝓖𝓾𝔂𝓼</h1> 
+<h1 align="center">𝓗𝓮𝓵𝓵𝓸 𝓖𝓾𝔂𝓼</h1>  
 
 <div align="center">
   <img src="/assets/rem-wall.gif" />
