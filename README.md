@@ -94,10 +94,17 @@
   />
   <img
     align="center"
-    alt="Flutter Framework"
+    alt="Flutter"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+  />
+  <img
+    align="center"
+    alt="Jupyter"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
   />
   <img
     align="center"
@@ -108,7 +115,7 @@
   />
   <img
     align="center"
-    alt="Laravel"
+    alt="Nest JS"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
