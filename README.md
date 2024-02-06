@@ -13,8 +13,7 @@
 <ul>
   <li>😊 Just Call Me Arief</li>
   <li>🔭 I’m studying on something cool 🚀!</li>
-<!--   <li>🌱 I’m learning <b>Java, Kotlin, Dart</b>.</li> -->
-  <li>💻 I’m interested with <b>Mobile App Development, And Data Science</b>.</li>
+  <li>💻 I’m interested with <b>Software Engineering</b>.</li>
   <li>⚡ Fun fact: I play rythm game like osu! 🎵</li>
 </ul>
 
@@ -75,6 +74,13 @@
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
   />
+  <img
+    align="center"
+    alt="PHP"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+  />
   
   <br />
   <br />
@@ -92,6 +98,20 @@
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+  />
+  <img
+    align="center"
+    alt="Laravel"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
+  />
+  <img
+    align="center"
+    alt="Laravel"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
   />
 </div>
 
