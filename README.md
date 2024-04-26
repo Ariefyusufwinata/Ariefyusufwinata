@@ -76,6 +76,13 @@
   />
   <img
     align="center"
+    alt="Python"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+  />
+  <img
+    align="center"
     alt="PHP"
     height="30"
     width="40"
@@ -119,6 +126,13 @@
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
+  />
+  <img
+    align="center"
+    alt="Nest JS"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"
   />
 </div>
 
