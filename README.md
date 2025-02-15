@@ -129,7 +129,6 @@
 </div>
 
   <br />
-  <br />
 
   <img
     align="center"
@@ -145,15 +144,6 @@
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maridb/mariadb-original.svg"
   />
-</div>
-  <img
-    align="center"
-    alt="Nest JS"
-    height="30"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-  />
-</div>
   <img
     align="center"
     alt="Nest JS"
@@ -163,7 +153,6 @@
   />
 </div>
 
-  <br />
   <br />
 
   <img
@@ -194,8 +183,7 @@
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
   />
-
-  <br />
+  
   <br />
 
   <img
