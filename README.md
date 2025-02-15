@@ -14,7 +14,6 @@
   <li>😊 Just Call Me Arief</li>
   <li>🔭 I’m studying on something cool 🚀!</li>
   <li>💻 I’m interested with <b>Software Engineering</b>.</li>
-  <li>⚡ Fun fact: I play rythm game like osu! 🎵</li>
 </ul>
 
 <br />
