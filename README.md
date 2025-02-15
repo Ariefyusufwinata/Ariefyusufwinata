@@ -21,21 +21,6 @@
 
 <p align="center">【Ｊｕｓｔ　Ｔｒｙ　Ａｎｄ　Ｔｒｙ】</p> 
 
-<h2>𝐒𝐭𝐚𝐭𝐬</h2>
-
-<div>
-  <img
-    height="155rem"
-    src="https://github-readme-stats.vercel.app/api?username=Ariefyusufwinata&show_icons=true&layout=compact"
-  />
-  <img
-    height="155rem"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariefyusufwinata&layout=compact"
-  />
-</div>
-
-<br />
-
 <h2>𝐖𝐡𝐚𝐭 𝐀𝐦 𝐈 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐢 𝐔𝐬𝐞 𝐌𝐨𝐬𝐭𝐥𝐲 ?</h2>
 
 <div style="display: inline_block">
@@ -88,6 +73,13 @@
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
   />
+    <img
+    align="center"
+    alt="PHP"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+  />
   
   <br />
   <br />
@@ -108,20 +100,6 @@
   />
   <img
     align="center"
-    alt="Jupyter"
-    height="30"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
-  />
-  <img
-    align="center"
-    alt="Jupyter"
-    height="30"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
-  />
-  <img
-    align="center"
     alt="Laravel"
     height="30"
     width="40"
@@ -134,6 +112,13 @@
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
   />
+    <img
+    align="center"
+    alt="Nest JS"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"
+  />
   <img
     align="center"
     alt="Nest JS"
@@ -143,6 +128,90 @@
   />
 </div>
 
+  <br />
+  <br />
+
+  <img
+    align="center"
+    alt="Nest JS"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  />
+  <img
+    align="center"
+    alt="Nest JS"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maridb/mariadb-original.svg"
+  />
+</div>
+  <img
+    align="center"
+    alt="Nest JS"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+  />
+</div>
+  <img
+    align="center"
+    alt="Nest JS"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"
+  />
+</div>
+
+  <br />
+  <br />
+
+  <img
+    align="center"
+    alt="Jupyter"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+  />
+  <img
+    align="center"
+    alt="Jupyter"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
+  />
+  <img
+    align="center"
+    alt="Jupyter"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+  />
+  <img
+    align="center"
+    alt="Jupyter"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
+  />
+
+  <br />
+  <br />
+
+  <img
+    align="center"
+    alt="Jupyter"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"
+  />
+    <img
+    align="center"
+    alt="Jupyter"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+  />
 
 <br />
 
