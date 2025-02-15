@@ -91,6 +91,13 @@
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
   />
+    <img
+    align="center"
+    alt="Jetpack Compose"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg"
+  />
   <img
     align="center"
     alt="Flutter"
@@ -114,14 +121,14 @@
   />
     <img
     align="center"
-    alt="Nest JS"
+    alt="Prisma"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"
   />
   <img
     align="center"
-    alt="Nest JS"
+    alt="Adonis JS"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"
@@ -132,21 +139,14 @@
 
   <img
     align="center"
-    alt="Nest JS"
+    alt="MySQL"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
   />
   <img
     align="center"
-    alt="Nest JS"
-    height="30"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maridb/mariadb-original.svg"
-  />
-  <img
-    align="center"
-    alt="Nest JS"
+    alt="Firebase"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"
@@ -157,14 +157,14 @@
 
   <img
     align="center"
-    alt="Jupyter"
+    alt="VS Code"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
   />
   <img
     align="center"
-    alt="Jupyter"
+    alt="Android Studio"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
@@ -178,7 +178,7 @@
   />
   <img
     align="center"
-    alt="Jupyter"
+    alt="Anaconda"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
@@ -188,14 +188,14 @@
 
   <img
     align="center"
-    alt="Jupyter"
+    alt="Putty"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"
   />
     <img
     align="center"
-    alt="Jupyter"
+    alt="Docker"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
