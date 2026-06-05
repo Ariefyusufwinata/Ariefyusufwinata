@@ -125,12 +125,29 @@
   />
   <img
     align="center"
-    alt="Adonis JS"
+    alt="AdonisJS"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"
   />
 </div>
+
+  <br />
+
+  <img
+    align="center"
+    alt="Tensorflow"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+  />
+  <img
+    align="center"
+    alt="OpenCV"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
+  />
 
   <br />
 
@@ -165,6 +182,13 @@
 
   <br />
 
+<img
+    align="center"
+    alt="MongoDB"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+  />
   <img
     align="center"
     alt="MySQL"
@@ -190,6 +214,13 @@
 
   <br />
 
+  <img
+    align="center"
+    alt="Bash"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+  />
   <img
     align="center"
     alt="Putty"
