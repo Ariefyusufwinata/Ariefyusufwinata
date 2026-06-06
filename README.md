@@ -70,12 +70,19 @@
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
   />
-    <img
+  <img
     align="center"
-    alt="PHP"
+    alt="Go"
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+  />
+  <img
+    align="center"
+    alt="Rust"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"
   />
   
   <br />
